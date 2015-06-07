@@ -1,0 +1,8 @@
+.productcont {
+	margin: 20px 0px;
+	background-color:#ccc;
+	padding: 10px 0px;
+	text-align:center;
+	border-top: solid 3px black;
+	border-bottom: solid 3px black;
+}

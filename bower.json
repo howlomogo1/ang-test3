@@ -1,0 +1,19 @@
+{
+  "name": "ang-test3",
+  "version": "0.0.0",
+  "authors": [
+    "mattpilcher <mattpilcher87@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.0",
+    "angular": "~1.4.0"
+  }
+}
